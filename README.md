@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Fateh .OK (software eng.)
+### Hi there 👋 I'm Fateh .OK (software eng. / Full Stack Dev)
 
   - I’m interested in full stack software development and machine learning
     - 🔭 I'm currently working remotely 
-    - 🌱 I’m currently learning TypeScript, Functional Programming
+    - 🌱 At the moment, I am actively expanding my knowledge in BDD, DDD, and exploring the concepts of Hexagonal Architecture.
     - 📫 How to reach me: ouldkradda.fateh[at].gmail.com
     - ⚡ Fun fact: MERN fanatic
 
